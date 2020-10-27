@@ -13,7 +13,7 @@
 
 На этой странице составляется перечень тем, составляющих основу знаний и навыков, необходимых для анализа 
 экономики водородного цикла. Проще говоря, этот список - это то, что нужно знать про водород из уже имеющейся информации.
-Вопросы, по которым сохраняется наибольшая неопределенность представлены в [отдельном разеле](#misc).
+Вопросы, по которым сохраняется наибольшая неопределенность и акутальны новые исследования представлены в [отдельном разеле](#misc).
 
 - [1. Технологические основы](#tech)
 - [2. Экономика](#econ)
@@ -93,6 +93,7 @@
 
 - Промышленное оборудование (Siemens, Linde)
 - Газовые компании (Engie)
+- Автомобильные компании (Toyota, Hyundai)
 
 Отраслевые ассоциации и консорциумы (Hydrogen Council)
 
@@ -122,8 +123,5 @@
 <!--
 ## Обсуждение
 -->
-
-
----
 
 [tenders]: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=H2020-JTI-FCH-2020-1;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=Tue%20Oct%2027%202020%2012:08:06%20GMT%2B0300%20%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%29;startDateGte=Tue%20Oct%2027%202020%2012:08:06%20GMT%2B0300%20%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%29;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState
