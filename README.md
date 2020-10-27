@@ -97,6 +97,11 @@
 
 Отраслевые ассоциации и консорциумы (Hydrogen Council)
 
+Специализированные консалтинговые компании:
+
+- [Rystad Energy](https://www.rystadenergy.com/)
+- [e4tech](https://www.e4tech.com/)
+
 Кейс: [стратегия порта Роттердам в области водорода](https://www.portofrotterdam.com/sites/default/files/hydrogen-vision-port-of-rotterdam-authority-may-2020.pdf)
 
 Анализ:
