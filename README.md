@@ -126,7 +126,8 @@
 
 ## Обсуждение
 
-Для обсуждения - группа в Telegram <https://t.me/h2economy>.
+Для обсуждения можно воспользоваться группй [h2economy в Telegram](https://t.me/h2economy).
+
 Добавления и комментарии также принимаются в [issues](https://github.com/epogrebnyak/h2/issues) проекта.
 
 [tenders]: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=H2020-JTI-FCH-2020-1;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=Tue%20Oct%2027%202020%2012:08:06%20GMT%2B0300%20%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%29;startDateGte=Tue%20Oct%2027%202020%2012:08:06%20GMT%2B0300%20%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0,%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%29;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState
