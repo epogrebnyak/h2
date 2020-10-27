@@ -120,6 +120,8 @@
 ## Термины и концепции
 
 - Power-to-X
+- [LOHC](https://www.portofrotterdam.com/sites/default/files/hydrogen-vision-port-of-rotterdam-authority-may-2020.pdf)
+- syngas
 
 <!--
 ## Обсуждение
